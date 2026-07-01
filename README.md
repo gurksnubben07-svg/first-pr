@@ -7,15 +7,15 @@ A practice repository for learning the GitHub pull request workflow.
 This repo exists so I can practice the full cycle of contributing to a project:
 
 1. Create a branch
-2. Make a small improvment
+2. Make a small improvement
 3. Push the branch to GitHub
 4. Open a pull request
 5. Review and merge it
 
 ## Why practice on a toy repo?
 
-Becuase making mistakes here is completely safe. Nothing depends on this
-code, so I can experiment with branches, commits, and pull requests untill
+Because making mistakes here is completely safe. Nothing depends on this
+code, so I can experiment with branches, commits, and pull requests until
 the workflow feels natural.
 
 ## Useful commands
